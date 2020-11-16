@@ -17,6 +17,7 @@ dependencies:
     - pyyaml
     - flask
     - boto3
+    - beautifulsoup4
     - pip:
         - bayesian-optimization
         - gym
